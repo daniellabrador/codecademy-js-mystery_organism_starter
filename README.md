@@ -1,6 +1,6 @@
 # **Mysterious Organism**
 
-This program checks if a credit card number is valid or not, as well as convert invalid credit card numbers to valid ones. This training project, prepared by [Codecademy](https://www.codecademy.com/learn/introduction-to-javascript), has been an invaluable exercise in enhancing my problem-solving skills and my knowledge with JavaScript loops.
+This program checks if a credit card number is valid or not, as well as convert invalid credit card numbers to valid ones. This training project, prepared by [Codecademy](https://www.codecademy.com/learn/introduction-to-javascript), has been an invaluable exercise in enhancing my problem-solving skills and my knowledge with JavaScript objects.
 
 ## Table of Contents
 
